@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jody.
+- 👀 I’m interested in IT security.
+- 🌱 I’m currently learning java script.
